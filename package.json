@@ -1,6 +1,6 @@
 {
-  "name": "@ayesha-bilal/number-guessung-game",
-  "version": "1.0.0",
+  "name": "ayesha-b2468-number-guessing-game",
+  "version": "1.0.1",
   "description": "This is a CLI based number guessing game",
   "main": "index.js",
   "type": "module",
